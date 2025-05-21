@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602228615387",
+    "project_id": "projetobruno-c679d",
+    "storage_bucket": "projetobruno-c679d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602228615387:android:f93a94769f385ffe0e44fe",
+        "android_client_info": {
+          "package_name": "com.example.projetobruno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkYYQeSud-R6itKGJaGFbD00vGiOcWUaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
